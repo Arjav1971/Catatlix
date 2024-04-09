@@ -1,4 +1,30 @@
 [
+  {
+    "page": "/Page 9",
+    "pageViews": "287,431",
+    "pageViewsPercentage": "9.80%",
+    "uniqueViews": "219,876",
+    "uniqueViewsPercentage": "8.50%",
+    "avgTime": "00:04:45",
+    "extrances": "382,109",
+    "extrancesPercentage": "10.80%",
+    "exit": "18.50%",
+    "pageValue": "$720",
+    "pageValuePercentage": "3.50%"
+  },
+  {
+    "page": "/Page 10",
+    "pageViews": "391,234",
+    "pageViewsPercentage": "12.90%",
+    "uniqueViews": "289,543",
+    "uniqueViewsPercentage": "11.50%",
+    "avgTime": "00:05:30",
+    "extrances": "489,876",
+    "extrancesPercentage": "13.80%",
+    "exit": "23.00%",
+    "pageValue": "$880",
+    "pageValuePercentage": "4.80%"
+  },
     {
       "page": "/Defect Arrival Rate",
       "pageViews": "872,337",
@@ -89,6 +115,32 @@
       "exit": "21.50%",
       "pageValue": "$850",
       "pageValuePercentage": "4.00%"
+    },
+    {
+      "page": "/Page 9",
+      "pageViews": "287,431",
+      "pageViewsPercentage": "9.80%",
+      "uniqueViews": "219,876",
+      "uniqueViewsPercentage": "8.50%",
+      "avgTime": "00:04:45",
+      "extrances": "382,109",
+      "extrancesPercentage": "10.80%",
+      "exit": "18.50%",
+      "pageValue": "$720",
+      "pageValuePercentage": "3.50%"
+    },
+    {
+      "page": "/Page 10",
+      "pageViews": "391,234",
+      "pageViewsPercentage": "12.90%",
+      "uniqueViews": "289,543",
+      "uniqueViewsPercentage": "11.50%",
+      "avgTime": "00:05:30",
+      "extrances": "489,876",
+      "extrancesPercentage": "13.80%",
+      "exit": "23.00%",
+      "pageValue": "$880",
+      "pageValuePercentage": "4.80%"
     },
     {
       "page": "/Page 8",
